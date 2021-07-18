@@ -223,8 +223,8 @@ def main(_argv):
         stframe.image(result,channels = 'BGR',use_column_width=True)
         
         
-        if cv2.waitKey(1) & 0xFF == ord('q'): break
-    cv2.destroyAllWindows()
+        #if cv2.waitKey(1) & 0xFF == ord('q'): break
+   #cv2.destroyAllWindows()
     st.success('Video saved')
     
    
