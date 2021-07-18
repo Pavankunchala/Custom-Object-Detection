@@ -1,0 +1,9 @@
+pytesseract==0.3.8
+numpy==1.18.5
+opencv_python_headless==4.2.0.34
+tensorflow==2.3.0rc0
+absl_py
+easydict==1.9
+streamlit==0.84.0
+
+Pillow==8.3.1
