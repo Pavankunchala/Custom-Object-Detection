@@ -1,9 +1,12 @@
-pytesseract==0.3.8
-numpy==1.18.5
-opencv_python_headless==4.2.0.34
-tensorflow==2.3.0rc0
+opencv_python_headless==4.5.2.54
 absl_py
+scipy==1.4.1
+streamlit==0.82.0
+numpy==1.18.5
+matplotlib==3.4.2
 easydict==1.9
-streamlit==0.84.0
+tensorflow==2.3.0rc0
+lxml 
+pytesseract
 
-Pillow==8.3.1
+Pillow==8.2.0
